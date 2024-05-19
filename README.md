@@ -5,11 +5,10 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+A very basic Java program using Java Swing which allows the creation and customization of tables.
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -17,17 +16,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
+- Java 11 or higher.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+To run this project:
 
-Say what the step will be
+1. 
 
 ```
 Give the example
